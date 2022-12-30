@@ -1,0 +1,4 @@
+numpy==1.23.3
+matplotlib
+gym==0.25.2
+dezero
